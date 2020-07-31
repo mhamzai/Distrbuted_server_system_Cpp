@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<clients>
-<file fl ="sample.txt"/>
-<timeout tm="3"/>
-<IP uri="127.0.0.1" st="0" sz="1024"/>
-<IP uri="127.0.0.2" st="2000" sz="1024"/>
-</clients>
