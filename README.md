@@ -1,0 +1,2 @@
+# Distrbuted_server_system_C
+This project contains Remote Procedure Calls based Master slave Server system where Master receives user requests and divides it evenly among the slaves. In this case a txt file is provided and master has to return word count of file and instance counts of a searched word. The Master is made to ensure reliability incase a slave server goes down or becomes a straggler, Master is supposed to distribute its tasks to free slaves to provide results to user in timely manner and mask any faults occured.
